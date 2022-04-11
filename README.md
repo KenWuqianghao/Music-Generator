@@ -1,2 +1,2 @@
-# Music-RNN-Generator
-A RNN used for generating music - TO BE COMPLETE
+# Music-Generator
+A program used for generating music (probably using Jukebox) - TO BE COMPLETE
